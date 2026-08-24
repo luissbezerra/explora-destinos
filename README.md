@@ -10,6 +10,7 @@ Projeto desenvolvido como atividade individual para a disciplina de Coding: Mobi
 * **JavaScript**: Manipulação do DOM, filtro de busca em tempo real e interatividade de cliques.
 
 explora-destinos/
+|
 ├── index.html
 ├── style.css
 ├── script.js
