@@ -14,3 +14,7 @@ Projeto desenvolvido como atividade individual para a disciplina de Coding: Mobi
 * **Busca Dinâmica**: Filtra os destinos instantaneamente enquanto o usuário digita.
 * **Cards Interativos**: Clique ou toque no card para visualizar a foto do destino.
 * **Modo Escuro**: Alternador de tema claro/escuro.
+
+### 🌐 Projeto online
+
+🔗 [Acessar o projeto](https://luissbezerra.github.io/explora-destinos/)
