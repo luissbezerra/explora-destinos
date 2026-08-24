@@ -9,6 +9,12 @@ Projeto desenvolvido como atividade individual para a disciplina de Coding: Mobi
 * **CSS3**: Layout responsivo com CSS Grid, Flexbox e variáveis para temas.
 * **JavaScript**: Manipulação do DOM, filtro de busca em tempo real e interatividade de cliques.
 
+## 📱 Funcionalidades
+* **Design Responsivo**: Adaptado para telas de celulares, tablets e computadores.
+* **Busca Dinâmica**: Filtra os destinos instantaneamente enquanto o usuário digita.
+* **Cards Interativos**: Clique ou toque no card para visualizar a foto do destino.
+* **Modo Escuro**: Alternador de tema claro/escuro.
+
 ### 📁 Estrutura do projeto
 
 ```text
@@ -17,11 +23,3 @@ explora-destinos/
 ├── index.html
 ├── style.css
 └── script.js
-
-## 📱 Funcionalidades
-* **Design Responsivo**: Adaptado para telas de celulares, tablets e computadores.
-* **Busca Dinâmica**: Filtra os destinos instantaneamente enquanto o usuário digita.
-* **Cards Interativos**: Clique ou toque no card para visualizar a foto do destino.
-* **Modo Escuro**: Alternador de tema claro/escuro.
-
-
